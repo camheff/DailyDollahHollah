@@ -1,0 +1,31 @@
+{
+    "name": "dailydollahhollah",
+    "version": "1.0.0",
+    "description": "Daily Collector",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/camheff/DailyDollahHollah.git"
+    },
+    "keywords": [
+        "Daily",
+        "Bonus"
+    ],
+    "author": "Camheff",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/camheff/DailyDollahHollah/issues"
+    },
+    "homepage": "https://github.com/camheff/DailyDollahHollah#readme",
+    "dependencies": {
+        "axios": "^1.6.2",
+        "dotenv": "^16.3.1",
+        "ghost-cursor": "^1.1.19",
+        "puppeteer": "^21.6.0",
+        "puppeteer-extra": "^3.3.6",
+        "winston": "^3.11.0"
+    }
+}
